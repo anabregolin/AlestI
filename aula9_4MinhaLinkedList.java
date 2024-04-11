@@ -1,6 +1,6 @@
 public class MinhaLinkedList {
 
-    public class Nodo(){
+    public class Node{
         public int valor;
         public Node prox; //referência
     }
